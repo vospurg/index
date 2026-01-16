@@ -1,0 +1,6 @@
+<svg width="520" height="200" viewBox="0 0 520 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="520" height="200" rx="24" fill="#1A130E"/>
+  <path d="M80 40L140 160" stroke="#C8906E" stroke-width="10" stroke-linecap="round"/>
+  <path d="M140 40L200 160" stroke="#C8906E" stroke-width="10" stroke-linecap="round"/>
+  <text x="230" y="120" font-family="Georgia, 'Times New Roman', serif" font-size="72" fill="#C8906E" letter-spacing="2">VOSPURG</text>
+</svg>
